@@ -1,6 +1,6 @@
 Name     : jdk-scala-xml_2.11
 Version  : 1.0.4
-Release  : 1
+Release  : 2
 URL      : http://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.4/scala-xml_2.11-1.0.4.jar
 Source0  : http://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.4/scala-xml_2.11-1.0.4.jar
 Source1  : http://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.4/scala-xml_2.11-1.0.4.pom
